@@ -1,0 +1,50 @@
+{
+  "skills": [
+    {
+      "title": "html5 & css3",
+      "value": 90
+    },
+    {
+      "title": "react.js",
+      "value": 75
+    },
+    {
+      "title": "c++",
+      "value": 48
+    },
+    {
+      "title": "gulp & webpack",
+      "value": 74
+    },
+    {
+      "title": "react-native",
+      "value": 69
+    }
+  ],
+  "projects": [
+    {
+      "title": {
+        "en": "Site for institute UZGIP",
+        "ru": "Сайт для института УзГИП"
+      },
+      "url": "https://uzgip.uz/",
+      "thumb": "/assets/imgs/uzgip.uz.png"
+    },
+    {
+      "title": {
+        "en": "Expert Info",
+        "ru": "Expert Info"
+      },
+      "url": "https://expertinfo.uz",
+      "thumb": "/assets/imgs/musicplayer.png"
+    },
+    {
+      "title": {
+        "en": "Exterior Portfolio",
+        "ru": "Сайт для экстерьер дизайнера"
+      },
+      "url": "https://roviks.github.io/exterior",
+      "thumb": "/assets/imgs/endless.png"
+    }
+  ]
+}

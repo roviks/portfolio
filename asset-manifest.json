@@ -1,25 +1,34 @@
 {
   "files": {
-    "main.css": "/static/css/main.5206a937.chunk.css",
-    "main.js": "/static/js/main.a527d5f4.chunk.js",
-    "main.js.map": "/static/js/main.a527d5f4.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f1343646.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f1343646.js.map",
-    "static/js/2.9b3d4a94.chunk.js": "/static/js/2.9b3d4a94.chunk.js",
-    "static/js/2.9b3d4a94.chunk.js.map": "/static/js/2.9b3d4a94.chunk.js.map",
+    "main.css": "/static/css/main.28ad86a4.css",
+    "main.js": "/static/js/main.38dc6234.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/fa-brands-400.svg": "/static/media/fa-brands-400.4009e71782c2fd408c47.svg",
+    "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.ab820b7de48566829c5e.svg",
+    "static/media/fa-solid-900.eot": "/static/media/fa-solid-900.d2c8b126d305ba3ef560.eot",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.2aae7c212ce9c344ede6.ttf",
+    "static/media/fa-regular-400.svg": "/static/media/fa-regular-400.d3d070c219ac57dafb23.svg",
+    "static/media/montserrat-bold.woff": "/static/media/montserrat-bold.180ba33d8de7dcfe80a0.woff",
+    "static/media/montserrat-regular.woff": "/static/media/montserrat-regular.3db65dc4b858f0fed4fb.woff",
+    "static/media/montserrat-medium.woff": "/static/media/montserrat-medium.d42dad28f6470e5162c2.woff",
+    "static/media/montserrat-light.woff": "/static/media/montserrat-light.be142e6c3747b7b87e60.woff",
+    "static/media/fa-brands-400.eot": "/static/media/fa-brands-400.4163c5ce45679952d5cb.eot",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.70257b1d0ff04d70da6c.ttf",
+    "static/media/fa-solid-900.woff": "/static/media/fa-solid-900.3a5706fab1c11ad6dfdc.woff",
+    "static/media/fa-brands-400.woff": "/static/media/fa-brands-400.b97ac5f935e23fc1816f.woff",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.b9df8fe0faf79eb4f60b.woff2",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.9ef50a04ef2ee9703d69.woff2",
+    "static/media/fa-regular-400.eot": "/static/media/fa-regular-400.0f9d1f74777600d15191.eot",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.6086b966f7072932f094.ttf",
+    "static/media/fa-regular-400.woff": "/static/media/fa-regular-400.0e6b58ac5d805dfcd66f.woff",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.0fe9428559f3518bb8d4.woff2",
     "index.html": "/index.html",
-    "precache-manifest.9595e636f46b675e54b0f9fafc16ce3f.js": "/precache-manifest.9595e636f46b675e54b0f9fafc16ce3f.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5206a937.chunk.css.map": "/static/css/main.5206a937.chunk.css.map",
-    "static/js/2.9b3d4a94.chunk.js.LICENSE.txt": "/static/js/2.9b3d4a94.chunk.js.LICENSE.txt",
-    "static/media/all.min.css": "/static/media/fa-solid-900.ea363ed4.eot",
-    "static/media/header-intro.scss": "/static/media/me.1fe2d06f.png",
-    "static/media/index.scss": "/static/media/montserrat-regular.de4a911e.woff"
+    "main.28ad86a4.css.map": "/static/css/main.28ad86a4.css.map",
+    "main.38dc6234.js.map": "/static/js/main.38dc6234.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.f1343646.js",
-    "static/js/2.9b3d4a94.chunk.js",
-    "static/css/main.5206a937.chunk.css",
-    "static/js/main.a527d5f4.chunk.js"
+    "static/css/main.28ad86a4.css",
+    "static/js/main.38dc6234.js"
   ]
 }
